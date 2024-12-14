@@ -35,7 +35,7 @@ if (ENVIRONMENT_IS_NODE) {
 
 // --pre-jses are emitted after the Module integration code, so that they can
 // refer to Module (if they choose; they can also define Module)
-// include: C:\Users\jonas\AppData\Local\Temp\tmpty8slyn_.js
+// include: C:\Users\jonas\AppData\Local\Temp\tmp6tjs2a3u.js
 
   Module['expectedDataFileDownloads'] ??= 0;
   Module['expectedDataFileDownloads']++;
@@ -216,25 +216,25 @@ Module['FS_createPath']("/C:/Dev/eletromag/application", "resources", true, true
     }
 
     }
-    loadPackage({"files": [{"filename": "C:/Dev/eletromag/application/resources/fourareen.mtl", "start": 0, "end": 322}, {"filename": "C:/Dev/eletromag/application/resources/fourareen.obj", "start": 322, "end": 5238868}, {"filename": "C:/Dev/eletromag/application/resources/fourareen2K_albedo.jpg", "start": 5238868, "end": 6643550}, {"filename": "C:/Dev/eletromag/application/resources/pyramid.obj", "start": 6643550, "end": 6651751}, {"filename": "C:/Dev/eletromag/application/resources/pyramid.txt", "start": 6651751, "end": 6652103}, {"filename": "C:/Dev/eletromag/application/resources/shader.wgsl", "start": 6652103, "end": 6653524}, {"filename": "C:/Dev/eletromag/application/resources/webgpu.txt", "start": 6653524, "end": 6654058}], "remote_package_size": 6654058});
+    loadPackage({"files": [{"filename": "C:/Dev/eletromag/application/resources/RobotoMono-VariableFont_wght.ttf", "start": 0, "end": 184172}, {"filename": "C:/Dev/eletromag/application/resources/arrow.obj", "start": 184172, "end": 185687}, {"filename": "C:/Dev/eletromag/application/resources/electron.obj", "start": 185687, "end": 192974}, {"filename": "C:/Dev/eletromag/application/resources/field.obj", "start": 192974, "end": 196644}, {"filename": "C:/Dev/eletromag/application/resources/orientation.png", "start": 196644, "end": 206412}, {"filename": "C:/Dev/eletromag/application/resources/shader.wgsl", "start": 206412, "end": 207591}, {"filename": "C:/Dev/eletromag/application/resources/sphere_with_vector.obj", "start": 207591, "end": 216463}], "remote_package_size": 216463});
 
   })();
 
-// end include: C:\Users\jonas\AppData\Local\Temp\tmpty8slyn_.js
-// include: C:\Users\jonas\AppData\Local\Temp\tmpml79k74d.js
+// end include: C:\Users\jonas\AppData\Local\Temp\tmp6tjs2a3u.js
+// include: C:\Users\jonas\AppData\Local\Temp\tmpwbs7me_t.js
 
     // All the pre-js content up to here must remain later on, we need to run
     // it.
     if (Module['$ww'] || (typeof ENVIRONMENT_IS_PTHREAD != 'undefined' && ENVIRONMENT_IS_PTHREAD)) Module['preRun'] = [];
     var necessaryPreJSTasks = Module['preRun'].slice();
-  // end include: C:\Users\jonas\AppData\Local\Temp\tmpml79k74d.js
-// include: C:\Users\jonas\AppData\Local\Temp\tmpul_edh4p.js
+  // end include: C:\Users\jonas\AppData\Local\Temp\tmpwbs7me_t.js
+// include: C:\Users\jonas\AppData\Local\Temp\tmp2xximy0t.js
 
     if (!Module['preRun']) throw 'Module.preRun should exist because file support used it; did a pre-js delete it?';
     necessaryPreJSTasks.forEach((task) => {
       if (Module['preRun'].indexOf(task) < 0) throw 'All preRun tasks that exist before user pre-js code should remain after; did you replace Module or modify Module.preRun?';
     });
-  // end include: C:\Users\jonas\AppData\Local\Temp\tmpul_edh4p.js
+  // end include: C:\Users\jonas\AppData\Local\Temp\tmp2xximy0t.js
 
 
 // Sometimes an existing Module object exists with properties
@@ -9387,11 +9387,11 @@ var dynCall_vi = Module['dynCall_vi'] = createExportWrapper('dynCall_vi', 2);
 var dynCall_ii = Module['dynCall_ii'] = createExportWrapper('dynCall_ii', 2);
 var dynCall_vii = Module['dynCall_vii'] = createExportWrapper('dynCall_vii', 3);
 var dynCall_vidd = Module['dynCall_vidd'] = createExportWrapper('dynCall_vidd', 4);
-var dynCall_viiiii = Module['dynCall_viiiii'] = createExportWrapper('dynCall_viiiii', 6);
 var dynCall_viiii = Module['dynCall_viiii'] = createExportWrapper('dynCall_viiii', 5);
 var dynCall_viii = Module['dynCall_viii'] = createExportWrapper('dynCall_viii', 4);
 var dynCall_v = Module['dynCall_v'] = createExportWrapper('dynCall_v', 1);
 var dynCall_iiiiiii = Module['dynCall_iiiiiii'] = createExportWrapper('dynCall_iiiiiii', 7);
+var dynCall_viiiii = Module['dynCall_viiiii'] = createExportWrapper('dynCall_viiiii', 6);
 var dynCall_iii = Module['dynCall_iii'] = createExportWrapper('dynCall_iii', 3);
 var dynCall_iiii = Module['dynCall_iiii'] = createExportWrapper('dynCall_iiii', 4);
 var dynCall_jiji = Module['dynCall_jiji'] = createExportWrapper('dynCall_jiji', 5);
